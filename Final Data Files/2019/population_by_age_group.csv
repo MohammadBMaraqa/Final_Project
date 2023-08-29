@@ -1,0 +1,13 @@
+borough_name,borough_code,% of all 16+ who are aged 16-19,% of all 16+ who are aged 20-24,% of all 16+ who are aged 25-34,% of all 16+ who are aged 35-49,% of all 16+ who are aged 50-64,% of all 16+ who are aged 65+
+Camden,E09000007,4.8,10.2,20.2,24.4,24.5,15.9
+City of London,E09000001,,,45.4,,23.4,31.1
+Hackney,E09000012,6.5,8.4,33.7,26.6,17.6,7.1
+Hammersmith and Fulham,E09000013,3.2,8.6,29.5,28.3,17.7,12.8
+Islington,E09000019,4.7,9.3,28.6,27.6,16.9,12.9
+Kensington and Chelsea,E09000020,7.4,6.9,13.0,30.7,24.5,17.5
+Lambeth,E09000022,4.3,10.3,31.5,27.0,17.5,9.2
+Newham,E09000025,6.9,8.8,30.8,30.7,13.6,9.1
+Southwark,E09000028,5.5,8.9,26.4,29.5,20.1,9.5
+Tower Hamlets,E09000030,3.1,14.4,35.4,30.2,9.5,7.5
+Wandsworth,E09000032,3.6,3.7,35.6,28.3,16.3,12.5
+Westminster,E09000033,3.6,8.2,23.3,30.1,19.3,15.5

@@ -1,0 +1,48 @@
+
+"annual population survey"
+"ONS Crown Copyright Reserved [from Nomis on 26 July 2023]"
+"Analysis   :","variable"
+"Confidence :","95% confidence interval of percent figure (+/-)"
+"Date       :","Jan 2017-Dec 2017"
+
+"local authority: district / unitary (as of April 2021)","mnemonic","Numerator","Denominator","% who are economically inactive - aged 16+","Conf"
+
+"Barking and Dagenham","E09000002",49800,150700,33.0,3.7
+"Barnet","E09000003",107400,306700,35.0,3.7
+"Bexley","E09000004",68600,196200,35.0,3.5
+"Brent","E09000005",82300,250300,32.9,3.4
+"Bromley","E09000006",88800,259500,34.2,3.7
+"Camden","E09000007",73300,209300,35.0,3.9
+"City of London","E09000001",5200,13200,39.7,"*"
+"Croydon","E09000008",86200,291800,29.6,3.4
+"Ealing","E09000009",79600,266700,29.8,4.0
+"Enfield","E09000010",92100,254200,36.2,4.0
+"Greenwich","E09000011",65600,216600,30.3,3.7
+"Hackney","E09000012",67000,219300,30.5,3.8
+"Hammersmith and Fulham","E09000013",43200,151200,28.6,3.9
+"Haringey","E09000014",66400,211200,31.4,3.4
+"Harrow","E09000015",65300,199300,32.7,3.7
+"Havering","E09000016",80500,209900,38.4,3.7
+"Hillingdon","E09000017",74500,232700,32.0,3.7
+"Hounslow","E09000018",58700,206900,28.4,4.1
+"Islington","E09000019",53600,197000,27.2,3.7
+"Kensington and Chelsea","E09000020",45900,127900,35.9,3.8
+"Kingston upon Thames","E09000021",41500,134900,30.8,3.8
+"Lambeth","E09000022",63300,273500,23.1,4.1
+"Lewisham","E09000023",53400,235400,22.7,3.5
+"Merton","E09000024",53200,169500,31.4,4.0
+"Newham","E09000025",88600,269700,32.8,4.0
+"Redbridge","E09000026",80100,233300,34.3,3.4
+"Richmond upon Thames","E09000027",51500,154100,33.4,3.9
+"Southwark","E09000028",55300,252400,21.9,3.4
+"Sutton","E09000029",44500,157500,28.3,3.7
+"Tower Hamlets","E09000030",84100,240700,35.0,4.1
+"Waltham Forest","E09000031",54600,206300,26.5,3.8
+"Wandsworth","E09000032",64000,255800,25.0,3.9
+"Westminster","E09000033",70300,190900,36.8,3.9
+"Column Total","Column Total",2158500,6944600,31.1,0.7
+
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+

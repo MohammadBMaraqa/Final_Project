@@ -1,0 +1,13 @@
+borough_name,borough_code,Male Full Time Workers - median_weekly,Male Part Time Workers - median_weekly,Female Full Time Workers - median_weekly,Female Part Time Workers - median_weekly,Total - median_weekly,Full Time Workers - median_weekly,Part Time Workers - median_weekly
+Camden,E09000007,844.0,,762.1,,662.0,795.4,167.0
+City of London,E09000001,,,741.3,,,,
+Hackney,E09000012,736.3,174.6,674.4,173.8,574.9,709.2,174.2
+Hammersmith and Fulham,E09000013,849.9,228.8,718.5,,728.0,795.3,208.3
+Islington,E09000019,859.0,,728.3,249.1,699.1,801.0,252.4
+Kensington and Chelsea,E09000020,,,818.0,,763.7,901.3,219.2
+Lambeth,E09000022,746.8,221.6,689.9,200.1,634.8,714.4,206.5
+Newham,E09000025,670.7,208.2,571.4,210.9,517.5,622.8,210.5
+Southwark,E09000028,737.1,215.4,695.4,195.5,628.0,709.1,198.4
+Tower Hamlets,E09000030,804.8,186.2,741.5,182.0,688.9,780.4,184.6
+Wandsworth,E09000032,862.4,,766.6,212.6,720.9,811.8,199.2
+Westminster,E09000033,886.6,,721.6,213.5,703.9,812.8,210.4

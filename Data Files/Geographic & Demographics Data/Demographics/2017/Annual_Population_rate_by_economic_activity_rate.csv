@@ -1,0 +1,45 @@
+
+"annual population survey"
+"ONS Crown Copyright Reserved [from Nomis on 26 July 2023]"
+"Analysis   :","variable"
+"Confidence :","95% confidence interval of percent figure (+/-)"
+"Date       :","Jan 2017-Dec 2017"
+
+"local authority: district / unitary (as of April 2021)","mnemonic","Numerator","Denominator","Economic activity rate - aged 16+","Conf"
+
+"Barking and Dagenham","E09000002",100900,150700,67.0,3.7
+"Barnet","E09000003",199300,306700,65.0,3.7
+"Bexley","E09000004",127600,196200,65.0,3.5
+"Brent","E09000005",168000,250300,67.1,3.4
+"Bromley","E09000006",170700,259500,65.8,3.7
+"Camden","E09000007",135900,209300,65.0,3.9
+"City of London","E09000001",8000,13200,60.3,24.8
+"Croydon","E09000008",205500,291800,70.4,3.4
+"Ealing","E09000009",187100,266700,70.2,4.0
+"Enfield","E09000010",162200,254200,63.8,4.0
+"Greenwich","E09000011",151000,216600,69.7,3.7
+"Hackney","E09000012",152300,219300,69.5,3.8
+"Hammersmith and Fulham","E09000013",108000,151200,71.4,3.9
+"Haringey","E09000014",144800,211200,68.6,3.4
+"Harrow","E09000015",134000,199300,67.3,3.7
+"Havering","E09000016",129400,209900,61.6,3.7
+"Hillingdon","E09000017",158200,232700,68.0,3.7
+"Hounslow","E09000018",148200,206900,71.6,4.1
+"Islington","E09000019",143500,197000,72.8,3.7
+"Kensington and Chelsea","E09000020",82000,127900,64.1,3.8
+"Kingston upon Thames","E09000021",93400,134900,69.2,3.8
+"Lambeth","E09000022",210200,273500,76.9,4.1
+"Lewisham","E09000023",181900,235400,77.3,3.5
+"Merton","E09000024",116300,169500,68.6,4.0
+"Newham","E09000025",181100,269700,67.2,4.0
+"Redbridge","E09000026",153300,233300,65.7,3.4
+"Richmond upon Thames","E09000027",102600,154100,66.6,3.9
+"Southwark","E09000028",197100,252400,78.1,3.4
+"Sutton","E09000029",113000,157500,71.7,3.7
+"Tower Hamlets","E09000030",156600,240700,65.0,4.1
+"Waltham Forest","E09000031",151600,206300,73.5,3.8
+"Wandsworth","E09000032",191800,255800,75.0,3.9
+"Westminster","E09000033",120600,190900,63.2,3.9
+"Column Total","Column Total",4786100,6944600,68.9,0.7
+
+

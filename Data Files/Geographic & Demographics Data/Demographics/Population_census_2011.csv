@@ -1,0 +1,51 @@
+
+"KS101EW - Usual resident population"
+"ONS Crown Copyright Reserved [from Nomis on 25 July 2023]"
+"Population :","All usual residents"
+"Units      :","Persons"
+"Rural Urban:","Total"
+"Variable   :","All usual residents"
+
+"local authority: county / unitary (prior to April 2015)","mnemonic","2011"
+
+"Barking and Dagenham","E09000002",185911
+"Barnet","E09000003",356386
+"Bexley","E09000004",231997
+"Brent","E09000005",311215
+"Bromley","E09000006",309392
+"Camden","E09000007",220338
+"City of London","E09000001",7375
+"Croydon","E09000008",363378
+"Ealing","E09000009",338449
+"Enfield","E09000010",312466
+"Greenwich","E09000011",254557
+"Hackney","E09000012",246270
+"Hammersmith and Fulham","E09000013",182493
+"Haringey","E09000014",254926
+"Harrow","E09000015",239056
+"Havering","E09000016",237232
+"Hillingdon","E09000017",273936
+"Hounslow","E09000018",253957
+"Islington","E09000019",206125
+"Kensington and Chelsea","E09000020",158649
+"Kingston upon Thames","E09000021",160060
+"Lambeth","E09000022",303086
+"Lewisham","E09000023",275885
+"Merton","E09000024",199693
+"Newham","E09000025",307984
+"Redbridge","E09000026",278970
+"Richmond upon Thames","E09000027",186990
+"Southwark","E09000028",288283
+"Sutton","E09000029",190146
+"Tower Hamlets","E09000030",254096
+"Waltham Forest","E09000031",258249
+"Wandsworth","E09000032",306995
+"Westminster","E09000033",219396
+
+
+
+"","In order to protect against disclosure of personal information, records"
+"","have been swapped between different geographic areas. Some counts will"
+"","be affected, particularly small counts at the lowest geographies"
+"",""
+

@@ -1,0 +1,13 @@
+borough_name,borough_code,% in employment working part-time - aged 16-19,% in employment working part-time - aged 20-24,% in employment working part-time - aged 25-49,% in employment working part-time - aged 50+
+Camden,E09000007,,49.1,19.1,35.9
+City of London,E09000001,,,,
+Hackney,E09000012,81.6,46.2,16.8,31.8
+Hammersmith and Fulham,E09000013,,,10.1,26.4
+Islington,E09000019,,27.4,17.3,28.1
+Kensington and Chelsea,E09000020,,49.1,18.7,26.6
+Lambeth,E09000022,,31.1,13.8,28.8
+Newham,E09000025,69.9,29.3,15.5,27.0
+Southwark,E09000028,84.7,40.9,23.8,32.5
+Tower Hamlets,E09000030,,9.1,12.8,25.5
+Wandsworth,E09000032,100.0,25.6,13.0,39.5
+Westminster,E09000033,,,9.9,37.1

@@ -1,0 +1,13 @@
+borough_name,borough_code,% in employment working full-time - aged 16-19,% in employment working full-time - aged 20-24,% in employment working full-time - aged 25-49,% in employment working full-time - aged 50+
+Camden,E09000007,,50.9,80.9,63.3
+City of London,E09000001,,,100.0,63.8
+Hackney,E09000012,,53.8,82.5,67.1
+Hammersmith and Fulham,E09000013,,95.0,89.9,72.4
+Islington,E09000019,,72.6,82.7,71.9
+Kensington and Chelsea,E09000020,,50.9,81.3,73.4
+Lambeth,E09000022,,68.9,85.8,71.2
+Newham,E09000025,,70.7,84.5,73.0
+Southwark,E09000028,,59.1,75.9,67.5
+Tower Hamlets,E09000030,,90.9,87.2,74.5
+Wandsworth,E09000032,,74.4,86.6,60.5
+Westminster,E09000033,,100.0,89.5,62.9

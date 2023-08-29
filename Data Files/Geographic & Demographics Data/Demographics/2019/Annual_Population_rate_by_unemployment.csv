@@ -1,0 +1,51 @@
+
+"annual population survey"
+"ONS Crown Copyright Reserved [from Nomis on 27 July 2023]"
+"Analysis   :","variable"
+"Confidence :","95% confidence interval of percent figure (+/-)"
+"Date       :","Jan 2019-Dec 2019"
+
+"local authority: district / unitary (as of April 2021)","mnemonic","Numerator","Denominator","Unemployment rate - aged 16+","Conf"
+
+"Barking and Dagenham","E09000002",6100,104500,5.9,2.6
+"Barnet","E09000003",11900,215500,5.5,2.5
+"Bexley","E09000004",6100,128400,4.7,2.1
+"Brent","E09000005",10900,176300,6.2,3.1
+"Bromley","E09000006",3300,174600,1.9,"*"
+"Camden","E09000007",8100,143900,5.6,2.6
+"City of London","E09000001","!",10100,"!","!"
+"Croydon","E09000008",7300,205800,3.5,1.8
+"Ealing","E09000009",7800,173600,4.5,2.6
+"Enfield","E09000010",11800,162900,7.3,3.1
+"Greenwich","E09000011",7500,161100,4.6,2.1
+"Hackney","E09000012",7000,157700,4.4,2.2
+"Hammersmith and Fulham","E09000013",3700,102000,3.7,2.2
+"Haringey","E09000014",4400,159800,2.7,1.7
+"Harrow","E09000015",6100,118900,5.1,2.7
+"Havering","E09000016",6700,133400,5.0,2.2
+"Hillingdon","E09000017",7500,155700,4.8,2.5
+"Hounslow","E09000018",5200,141100,3.7,"*"
+"Islington","E09000019",6200,147300,4.2,2.2
+"Kensington and Chelsea","E09000020",4100,76200,5.4,2.7
+"Kingston upon Thames","E09000021",2900,99000,2.9,1.8
+"Lambeth","E09000022",12300,207300,5.9,2.4
+"Lewisham","E09000023",8700,183100,4.8,2.1
+"Merton","E09000024",5400,119800,4.5,2.0
+"Newham","E09000025",9300,191700,4.9,2.5
+"Redbridge","E09000026",6000,154800,3.8,1.9
+"Richmond upon Thames","E09000027",1100,109700,1.0,"*"
+"Southwark","E09000028",7900,192800,4.1,2.0
+"Sutton","E09000029",6600,113500,5.8,2.2
+"Tower Hamlets","E09000030",7000,177300,4.0,2.2
+"Waltham Forest","E09000031",10100,154900,6.5,2.9
+"Wandsworth","E09000032",9100,207200,4.4,2.2
+"Westminster","E09000033",6500,133500,4.8,2.6
+"Column Total","Column Total",224400,4893600,4.6,0.4
+
+
+"!","Estimate and confidence interval not available since the group sample size"
+"","is zero or disclosive (0-2)"
+
+"*","Estimate and confidence interval unreliable since the group sample size is"
+"","small (3-9)"
+
